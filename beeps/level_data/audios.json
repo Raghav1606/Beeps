@@ -1,0 +1,20 @@
+{
+    "audios" :[
+        {
+            key1:"up",
+            keyno:0
+        },
+        {
+            key1:"down",
+            keyno:1
+        },
+        {
+            key1:"left",
+            keyno:2
+        },
+        {
+            key1:"right",
+            keyno:3
+        }
+    ]
+}
